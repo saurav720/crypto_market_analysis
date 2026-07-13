@@ -22,10 +22,9 @@ Data Visualization
 📊 Dashboard Features
 
 1. Market Capitalization Analysis
-Total Market Capitalization of cryptocurrencies.
-Market Cap ranking of each coin.
-Comparison of top cryptocurrencies by market value.
-
+   Total Market Capitalization of cryptocurrencies.
+   Market Cap ranking of each coin.
+   Comparison of top cryptocurrencies by market value.
 2. Price Analysis
 
 Current price of cryptocurrencies.
@@ -73,7 +72,7 @@ High-risk coins generally show greater price volatility.
 Market leaders maintain stronger trading volumes.
 Price momentum helps identify short-term market trends.
 Supply and volume significantly influence market movement.
-[10:37 am, 11/06/2026] 𝐒𝐚𝐮𝐫𝐚𝐯𝐯𝐯: 📷 Dashboard Preview
+[10:37 am, 11/06/2026] 𝐒𝐚𝐮𝐫𝐚𝐯𝐯𝐯: 📷 Dashboard Preview![1783923220705](image/README/1783923220705.png)
 Dashboard screenshots are available in the Images folder.
 
 📂 Project Structure
